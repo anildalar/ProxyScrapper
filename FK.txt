@@ -1,0 +1,29 @@
+Task 1. Create with pure Javascript
+
+https://www.flipkart.com/search?q=tv&page=0
+
+Product Tile
+Product Link
+Product Sale Price
+Product MRP Price
+Product OFFER Dicount
+
+Date Time
+
+
+
+Task 2. Create with pure Javascript
+
+Create a function
+
+getProductDetailByProductLink(link){
+	return 
+		Product Tile
+		Product Link
+		Product Sale Price
+		Product MRP Price
+		Product OFFER Dicount
+}
+
+
+getProductDetailByProductLink('')
